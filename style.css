@@ -1,0 +1,11 @@
+body{
+    background-color: #10ec08;
+    text-align: center;
+     font-family: "Shadows Into Light", cursive;
+     color: rgb(240, 240, 250);
+     font-size: 3rem;
+}
+
+li{
+    list-style-type: none;
+}
